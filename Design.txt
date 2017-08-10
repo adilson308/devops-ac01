@@ -1,0 +1,31 @@
+Na primeira pagina index.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmese no seu canto inferior esquerdo, uma seta com o nome : Seguinte, para seguir para a proxima página index2.html 
+
+
+Na segunta pagina pagina index2.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmes e no seu canto inferior esquerdo, uma botão com o nome : "Seguinte" para seguir para a proxima página index3.html e uma seta indicando o lado e no canto inferior direito, deve conter um botão com o nome : "Anterior" para retornar a pagina anterior index.html e uma seta indicando o lado.
+
+
+Na terceira pagina pagina index3.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmes e no seu canto inferior esquerdo, uma botão com o nome : "Seguinte" para seguir para a proxima página index4.html e uma seta indicando o lado  e no canto inferior direito, deve conter um botão com o nome : "Anterior" para retornar a pagina anterior index2.html e uma seta indicando o lado.
+
+
+
+Na quarta pagina pagina index4.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmes e no seu canto inferior esquerdo, uma botão com o nome : "Seguinte" para seguir para a proxima página index5.html e uma seta indicando o lado. e no canto inferior direito, deve conter um botão com o nome : "Anterior" para retornar a pagina anterior index3.html e uma seta indicando o lado.
+
+
+
+Na quinta pagina pagina index5.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmes e no seu canto inferior esquerdo, uma botão com o nome : "Seguinte" para seguir para a proxima página index6.html e uma seta indicando o lado. e no canto inferior direito, deve conter um botão com o nome : "Anterior" para retornar a pagina anterior index4.html e uma seta indicando o lado.
+
+
+
+Na Sexta pagina pagina index6.html deve conter as seguintes componentes:
+
+Nome do participante, Nome dos filmes e no seu canto inferior esquerdo, uma botão com o nome : deve conter um botão com o nome : "Anterior" para retornar a pagina anterior index4.html e uma seta indicando o lado.
