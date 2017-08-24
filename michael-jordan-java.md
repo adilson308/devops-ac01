@@ -1,0 +1,3 @@
+* Eu trabalharei com desenvolvimento de aplicativos mobile, uma área que vem crescendo e é o futuro tecnologico, pois hoje em dia fazemos muitas coisas pelo celular.
+
+* Trabalharei em empresas grandes como Microsoft, Google, Twetter, Facebook, etc....
